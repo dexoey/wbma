@@ -1,8 +1,8 @@
 {
-  "name": "temp-app-name",
+  "name": "My WBMA",
   "description": "Simple seed template for an angular app.",
   "authors": [
-    "developerName"
+    "Mahdi Azarboon"
   ],
   "license": "ISC",
   "private": true,
